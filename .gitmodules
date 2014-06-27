@@ -1,0 +1,3 @@
+[submodule "sample/js/lib/bmp-js"]
+	path = sample/js/lib/bmp-js
+	url = git@github.com:kyohei-shimada/bmp-js.git
